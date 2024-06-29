@@ -1,10 +1,5 @@
 # Kirka_io
 Css made by @PoopooumgoodTTV
-How to add 
-| **Key** | **Action**               |
-|---------|--------------------------|
-| Right shift |Open thing to add css |
-
 /* ==UserStyle== @name kirka.io - Jun 2024 @namespace github.com/openstyles/stylus @version 1.0.0 @description A new userstyle @author @PoopooumgoodTTV ==/UserStyle== */
 
 @-moz-document domain(“kikrka.io”) {} /* @PoopooumgoodTTV */ :root { –asscentColor: #ee0944; ; }
