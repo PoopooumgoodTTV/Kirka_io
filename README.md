@@ -1,6 +1,6 @@
 # Kirka_io
 Css made by @PoopooumgoodTTV
-/* ==UserStyle== @name kirka.io - Jun 2024 @namespace github.com/openstyles/stylus @version 1.0.0 @description A new userstyle @author @PoopooumgoodTTV ==/UserStyle== */
+``` /* ==UserStyle== @name kirka.io - Jun 2024 @namespace github.com/openstyles/stylus @version 1.0.0 @description A new userstyle @author @PoopooumgoodTTV ==/UserStyle== */
 
 @-moz-document domain(“kikrka.io”) {} /* @PoopooumgoodTTV */ :root { –asscentColor: #ee0944; ; }
 
@@ -111,3 +111,4 @@ Css made by @PoopooumgoodTTV
 .hit { content: url(https://64.media.tumblr.com/7c8aa35da74e949ee7ecb0683a1f4651/2419f703ae1a384a-2f/s75x75_c1/c2d10f7873a2e527235f0be85b5b906e59a2da41.webp); margin-left: 4px; margin-top: 3px; } .player[data-v-3a61646a] { background: transparent !important; border-bottom: transparent !important; border: none !important; } .timer[data-v-14e97ff8] { background: transparent !important; border-bottom: transparent !important; border: none !important; } /* kill icon */ .animate-cont { content: url(https://wallpapercave.com/uwp/uwp4428729.webp ); height: 100px; text-align: center; display: inline-block;
 
 }
+```
